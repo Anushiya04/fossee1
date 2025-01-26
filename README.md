@@ -15,8 +15,4 @@ This project is a web-based application that enables users to generate Python co
 - **Visual Programming:** Blockly
 - **Backend Integration:** pyFirmata (for Arduino control)
 
-## Installation and Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+![image alt](https://github.com/Anushiya04/fossee1/blob/cd6d080e6ee459d601162d340662b10a137a9fef/blockwebpage.png)
